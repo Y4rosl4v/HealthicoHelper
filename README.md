@@ -1,5 +1,7 @@
   # HealthicoHelper
 
+![shutterstock_387274852](https://github.com/Y4rosl4v/HealthicoHelper/assets/145491610/2aa86882-9285-4088-8f40-9c0e55fb54ed)
+
 # Problems requiring solutions and information about the program
 A program that can make the time spent by a person at a computer safer for his health.
 Nowadays, many people suffer from health problems caused not only by frequent use of the computer, but also with the wrong landing behind it. Vision problems are quite common among gadget lovers, but there may also be problems with the spine and the human support system as a whole, which can later lead to serious illnesses. Also, an incorrect landing at the computer causes pain in the back, head, neck and lower back, stiffness of the limbs and generally worsens a person's well-being. The Healthico program will work as a recommendation system, as well as take part in improving the internal conditions for working and relaxing at the computer. 
